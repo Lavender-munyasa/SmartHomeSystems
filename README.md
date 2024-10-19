@@ -12,4 +12,4 @@ producing a flame on the top of the lighter.
 - ESP32
 - Buzzer
 - LED
-- 
+
